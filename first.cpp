@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-	cout<<"Welcome to the MCI";
+	cout<<"Welcome to the yasha program";
 }
-//Coded by HammadMaqbool
+//Coded by yashaamir
 
 
